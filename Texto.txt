@@ -1,2 +1,6 @@
 Un chanchito feito.
+<<<<<<< HEAD
 Otro chanco oloroso.
+=======
+Otro chanchito feito.s
+>>>>>>> NewBranch
